@@ -1,4 +1,4 @@
-# Data Engineering Practical Notes
+# Ecommerce Hadoop Big Data
 
 A comprehensive collection of practical notes documenting the implementation of an end-to-end **e-commerce big data pipeline** using the Hadoop ecosystem. The project demonstrates how structured, semi-structured, and streaming data can be ingested, processed, stored, and analyzed using industry-standard big data technologies.
 
